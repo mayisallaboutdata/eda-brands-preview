@@ -1,0 +1,30 @@
+# Editor / tool leftovers
+.claude/
+CLAUDE.md
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backups and source maps
+*_original
+*.bak
+*~
+*.map
+
+# Archives / misc
+*.zip
+.thumbnail
+
+# Env files
+.env
+.env.*
+
+# Dependencies
+node_modules/
+
+# Internal docs (not for the public repo)
+AUDIT-REPORT.md
+LAUNCH-CHECKLIST.md
